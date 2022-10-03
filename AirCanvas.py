@@ -5,7 +5,7 @@ import numpy as np
 video_width = 640
 video_height = 480
 
-# Getting access of the externally connected webcam
+# Getting access of the laptop webcam
 cap = cv2.VideoCapture(0)
 
 # Setting width & height of the webcam screen size
